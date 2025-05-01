@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ifineartdesign.com/sitemap.xml
+Sitemap: https://coffeebarista.co.kr/sitemap.xml
